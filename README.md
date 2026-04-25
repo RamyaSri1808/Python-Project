@@ -127,7 +127,7 @@ SHM-WAS/
 
 ```bash
 python main.py
-
+---
 👥 Team & Contributions
 👩‍💻 Team Members
 2500030285 Jahnavi Sudha  – Core Development, BMI Module
