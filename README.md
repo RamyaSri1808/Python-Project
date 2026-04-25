@@ -127,7 +127,6 @@ SHM-WAS/
 
 ```bash
 python main.py
-```
 
 👥 Team & Contributions
 👩‍💻 Team Members
@@ -150,5 +149,3 @@ Prepared documentation and project report
 
 SHM-WAS is a simple yet effective system for managing health records and performing basic wellness analysis. It demonstrates the practical use of Python programming concepts in healthcare applications.
 
-
-Just tell me 🙂
